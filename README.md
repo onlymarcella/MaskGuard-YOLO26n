@@ -151,31 +151,6 @@ Setelah notebook selesai dijalankan, salin `docs/hasil_deteksi.jpg` ke folder `d
 ![Hasil Deteksi Masker](docs/hasil_deteksi.jpg)
 ```
 
-Dokumentasi hasil yang harus dicantumkan:
-
-- nilai precision;
-- nilai recall;
-- nilai mAP50;
-- nilai mAP50–95;
-- confusion matrix;
-- minimal satu gambar hasil deteksi;
-- keterangan singkat tentang kesalahan deteksi yang masih muncul.
-
-## Mengunggah ke GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: MaskGuard YOLO26n"
-git branch -M main
-git remote add origin https://github.com/USERNAME/MaskGuard-YOLO26n.git
-git push -u origin main
-```
-
-Ganti `USERNAME` dengan username GitHub.
-
-> Jangan mengunggah dataset mentah, folder cache, atau file bobot berukuran besar tanpa memeriksa batas ukuran GitHub. Gunakan Git LFS atau GitHub Release apabila diperlukan.
-
 ## Batasan
 
 - Performa dipengaruhi pencahayaan, sudut wajah, resolusi, dan occlusion.
