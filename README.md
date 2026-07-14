@@ -122,6 +122,10 @@ Tekan `q` untuk menutup jendela webcam.
 
 ## Tampilan Hasil
 
+<img width="634" height="497" alt="Screenshot 2026-07-15 005100" src="https://github.com/user-attachments/assets/65d3884e-3439-4676-9c25-4dd2ab706a8e" />
+<img width="632" height="493" alt="Screenshot 2026-07-15 004956" src="https://github.com/user-attachments/assets/078f8a8e-6d3e-47e7-b146-af0537836fe6" />
+
+
 Notebook otomatis membuat:
 
 ```text
