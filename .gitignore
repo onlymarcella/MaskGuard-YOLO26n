@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset and cache
+dataset/
+raw/
+.cache/
+kaggle.json
+
+# Training outputs
+runs/
+outputs/
+*.onnx
+*.engine
+
+# Large model weights
+models/*.pt
+models/*.pth
+
+# OS
+.DS_Store
+Thumbs.db
